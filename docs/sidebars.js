@@ -10,7 +10,8 @@ module.exports = {
         'create-a-blog-post',
         'markdown-features',
         'thank-you',
+        'extra',
       ],
     },
   ],
-};
+}
